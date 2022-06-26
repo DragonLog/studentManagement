@@ -11,4 +11,9 @@
 7. **这是我大三上学期的企业课大作业，整个项目皆为原创，如你所见除了前端稍微好看点外并没有任何优点，就连代码量最大的CURD在框架盛行的现在用个mybatis逆向工程或者MP都可以快速实现，所以任课老师也对该项目的评价很低（但是他教的就是servlet和jsp啊，早说用spring啥的可以加分，我一开始就去学框架了，气！开个玩笑哈！）。当时的我简直是着了魔的拼命做前端，甚至忘了自己应该专注于后端，复杂的业务（那种多表联查）也没怎么做，看着其他同学那时候就开始用spring和mybatis了，对比之下我这就太low了！哈哈，不过我也不后悔，毕竟servlet比springmvc偏向底层，作为入门学习，整个项目使用servlet也能为后面的框架学习打下基础嘛，然而花大量时间在前端还是不合适的，虽然前端也学到了很多，但你始终要为后端服务的。努力很重要，选择更重要！**
 > **注：mysql5到mysql8还是做了很多改进的，不仅仅是安装和配置，就连它们的连接驱动包很多地方都做了改动。** 
 ***
-> **[项目示例（用户名：admin，密码：123456。后台数据每60min重新刷新一次）](http://47.98.130.70:8080)**
+![示例图片](https://github.com/DragonLog/studentManagement/blob/main/pictureForExample/show1.jpg)
+![示例图片](https://github.com/DragonLog/studentManagement/blob/main/pictureForExample/show2.jpg)
+![示例图片](https://github.com/DragonLog/studentManagement/blob/main/pictureForExample/show3.jpg)
+![示例图片](https://github.com/DragonLog/studentManagement/blob/main/pictureForExample/show4.jpg)
+![示例图片](https://github.com/DragonLog/studentManagement/blob/main/pictureForExample/show5.jpg)
+

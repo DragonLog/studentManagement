@@ -69,7 +69,7 @@
             if(obj.event === 'detail'){
                 layer.open({
                     anim: 6
-                    ,title: '教师信息查看'
+                    ,title: '学生信息查看'
                     ,type: 2
                     ,content: 'StudentDetail.jsp'
                     ,area:['600px', '580px'],
@@ -167,7 +167,7 @@
                     layer.open({
                         skin: 'layui-layer-lan'
                         ,anim: 6
-                        ,title: '教师信息添加'
+                        ,title: '学生信息添加'
                         ,type: 2
                         ,content: 'StudentAdd.jsp'
                         ,btn: ['确定', '取消']
